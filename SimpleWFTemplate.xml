@@ -1,0 +1,27 @@
+
+<Task>
+	<Form></Form>	
+	
+	<Nodes>	
+
+		<Node>
+			<Role></Role>			
+			<CheckExpression></CheckExpression>				
+		</Node>		
+		<Node>
+			<Role></Role>			
+			<CheckExpression></CheckExpression>				
+		</Node>
+		
+		<Node>
+			<Role></Role>			
+			<CheckExpression></CheckExpression>				
+		</Node>
+		
+		<Node>
+			<Role></Role>			
+			<CheckExpression></CheckExpression>				
+		</Node>
+		
+	</Nodes>
+</Task>
